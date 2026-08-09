@@ -29,7 +29,8 @@ Isso significa que, ao clicar no botão Enviar, os dados são enviados para o ar
 
 
  No HTML (Cadastro.html):
-<html, head e body — estrutura básica da página.
+ 
+html, head e body — estrutura básica da página.
 
 title — título da página.
 
