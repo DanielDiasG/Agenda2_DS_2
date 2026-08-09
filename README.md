@@ -45,9 +45,7 @@ required — torna campos obrigatórios.
 placeholder — texto de orientação dentro dos campos.
 <link rel="stylesheet" — conexão do HTML com o arquivo CSS.
 
-    
 # 🎨 CSS
-
 
 No CSS (Agenda2_DS2.css):
 
