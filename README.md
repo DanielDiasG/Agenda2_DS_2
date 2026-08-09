@@ -3,12 +3,19 @@
 
 # O projeto tem como objetivo demonstrar conhecimentos básicos de desenvolvimento web, principalmente:
 -Estruturação de páginas com HTML.
+
 -Estilização com CSS.
+
 -Criação e validação de formulários.
+
 -Envio de informações utilizando POST.
+
 -Processamento server-side com PHP.
+
 -Organização de arquivos de um projeto web.
+
 -Utilização de servidor local para execução de PHP.
+
 
 # O formulário utiliza:
 
