@@ -51,23 +51,40 @@ placeholder — texto de orientação dentro dos campos.
 
 #No CSS (Agenda2_DS2.css):
 
+
 Seletores de elementos, como body, input, textarea e h1.
+
 Classes e/ou IDs para aplicar estilos específicos.
+
 background-color — cores de fundo.
+
 color — cores dos textos.
+
 font-family — definição das fontes.
+
 font-size — tamanho das letras.
+
 width e height — dimensões dos elementos.
+
 padding — espaço interno.
+
 margin — espaçamento externo.
+
 border — bordas.
+
 border-radius — cantos arredondados.
+
 box-shadow — sombras.
+
 text-align — alinhamento dos textos.
+
 display — controle de exibição dos elementos.
+
 :hover — alteração do botão quando o mouse passa sobre ele.
+
 Estilização específica de input[type=submit].
-Estilização da <textarea>.
+
+Estilização da <textarea.
 
 
 
@@ -79,15 +96,13 @@ Estilização da <textarea>.
 #No PHP (processaCadastro.php):
 
 $_POST — recebimento dos dados enviados pelo formulário.
+
 Variáveis para trabalhar com os dados recebidos.
+
 echo — exibição das informações na página.
+
 Concatenação com . para juntar textos e valores.
+
 Processamento server-side, ou seja, o código PHP é executado no servidor.
-Recebimento de diferentes campos, como:
-nome
-idade
-prof
-salpre
-expant
 
 HTML dentro do PHP para montar a página de resposta.
