@@ -29,21 +29,37 @@ Isso significa que, ao clicar no botão Enviar, os dados são enviados para o ar
 
 
  No HTML (Cadastro.html):
-<html, <head> e <body> — estrutura básica da página.
+<html, head e body — estrutura básica da página.
+
 title — título da página.
+
 h1 — título principal.
+
 form — criação do formulário.
+
 method="post" — envio dos dados pelo método POST.
+
 action="processaCadastro.php" — define o arquivo PHP que receberá os dados.
+
 <label — identificação dos campos.
+
 <input type="text" — entrada de texto.
+
 <input type="number" — entrada de números.
+
 <input type="submit" — botão para enviar o formulário.
+
 required — torna campos obrigatórios.
+
 <textarea — campo para textos maiores, como experiência profissional.
+
 <img — utilização de imagem na página.
+
 placeholder — texto de orientação dentro dos campos.
-<link rel="stylesheet" — conexão do HTML com o arquivo CSS.
+
+link rel="stylesheet" — conexão do HTML com o arquivo CSS.
+
+
 
 # 🎨 CSS
 
