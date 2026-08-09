@@ -51,9 +51,9 @@ action="processaCadastro.php" — define o arquivo PHP que receberá os dados.
 
 required — torna campos obrigatórios.
 
-<textarea — campo para textos maiores, como experiência profissional.
+textarea — campo para textos maiores, como experiência profissional.
 
-<img — utilização de imagem na página.
+img — utilização de imagem na página.
 
 placeholder — texto de orientação dentro dos campos.
 
