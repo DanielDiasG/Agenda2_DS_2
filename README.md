@@ -41,13 +41,13 @@ method="post" — envio dos dados pelo método POST.
 
 action="processaCadastro.php" — define o arquivo PHP que receberá os dados.
 
-<label — identificação dos campos.
+label — identificação dos campos.
 
-<input type="text" — entrada de texto.
+input type="text" — entrada de texto.
 
-<input type="number" — entrada de números.
+input type="number" — entrada de números.
 
-<input type="submit" — botão para enviar o formulário.
+input type="submit" — botão para enviar o formulário.
 
 required — torna campos obrigatórios.
 
@@ -103,7 +103,11 @@ Estilização específica de input[type=submit].
 Estilização da <textarea.
 
 
+
+
 #🐘 PHP
+
+
 
 
 No PHP (processaCadastro.php):
