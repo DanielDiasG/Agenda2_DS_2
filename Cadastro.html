@@ -5,24 +5,41 @@
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title> Cadastro Colaboradores das Lojas Brincos e Companhia</title>
+
+  <!-- link para o arquivo CSS -->
   <link rel="stylesheet" type="text/css" href="Agenda2_DS2.css">
 </head>
 
 <body>
+    <!-- nome da loja -->
   <h1>Loja Brincos e Companhia <br>
   Cadastro de Colaboradores</h1>
 
+  <!-- formulário de cadastro com o método post e action com o arquivo php -->
   <form id="form1" name="form1" method="post" action="processaCadastro.php">
-    <b>
+    <!-- b para colocar texto em negrito -->
+    <b>                     <!-- input obrigatório e placeholder para exemplo -->
       Nome Completo: <input required name="nome" type="text" id="nome" placeholder="Ex.: João Silva Pereira"><br>
+                <!-- input obrigatório e placeholder para exemplo -->
       Idade: <input required name="idade" type="num" id="idade" placeholder="Ex.: 37"><br>
+                    <!-- input obrigatório e placeholder para exemplo -->
       Profissão: <input required name="prof" type="text" id="prof" placeholder="Ex.: Joalheiro"><br>
+                              <!-- input obrigatório e placeholder para exemplo -->
       Salário pretendido: <input required name="salpre" type="num" id="salpre" placeholder="Ex.: 2800"><br>
+                                  <!--textarea para experiência anterior -->
       Experiência anterior: <textarea name="expant" id="expant" placeholder="Ex.: Morana "></textarea><br></b>
+
+      <!-- input de envio -->
     <input name="Enviar" type="submit" id="enviar" class="submit">
   </form>
+  <!-- div para o fundo da imagem  -->
   <div>
-    <img src="Loja_chat.png" alt="Fundo da página" width="100%" height="100%">
+    <!-- figure para a imagem -->
+    <figure>
+      <!-- imagem -->
+      <img src="Loja_chat.png" alt="loja" width="80%" height="80%">
+      <figcaption>Loja Brincos e Companhia</figcaption>
+    </figure>
   </div>
 </body>
 
