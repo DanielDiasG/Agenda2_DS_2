@@ -64,7 +64,7 @@ link rel="stylesheet" — conexão do HTML com o arquivo CSS.
 
 
 
-# 🎨 CSS
+#  CSS
 
 No CSS (Agenda2_DS2.css):
 
@@ -106,7 +106,7 @@ Estilização da <textarea.
 
 
 
-# 🐘 PHP
+#  PHP
 
 
 
