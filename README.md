@@ -61,6 +61,8 @@ link rel="stylesheet" — conexão do HTML com o arquivo CSS.
 
 
 
+
+
 # 🎨 CSS
 
 No CSS (Agenda2_DS2.css):
@@ -101,9 +103,7 @@ Estilização específica de input[type=submit].
 Estilização da <textarea.
 
 
-
 #🐘 PHP
-
 
 
 No PHP (processaCadastro.php):
