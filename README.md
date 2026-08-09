@@ -111,6 +111,9 @@ Estilização da <textarea.
 
 
 
+
+
+
 No PHP (processaCadastro.php):
 
 $_POST — recebimento dos dados enviados pelo formulário.
