@@ -28,7 +28,7 @@ Isso significa que, ao clicar no botão Enviar, os dados são enviados para o ar
 # HTML
 
 
-# No HTML (Cadastro.html):
+ No HTML (Cadastro.html):
 <html, <head> e <body> — estrutura básica da página.
 <title — título da página.
 <h1 — título principal.
@@ -49,7 +49,7 @@ placeholder — texto de orientação dentro dos campos.
 # 🎨 CSS
 
 
-# No CSS (Agenda2_DS2.css):
+No CSS (Agenda2_DS2.css):
 
 
 Seletores de elementos, como body, input, textarea e h1.
@@ -92,8 +92,7 @@ Estilização da <textarea.
 
 
 
-
-#No PHP (processaCadastro.php):
+No PHP (processaCadastro.php):
 
 $_POST — recebimento dos dados enviados pelo formulário.
 
